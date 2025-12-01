@@ -1,0 +1,9 @@
+| Feature             | Sequelize              | TypeORM                       |
+| ------------------- | ---------------------- | ----------------------------- |
+| Language            | JS / TS                | TypeScript (best)             |
+| Model style         | JS classes or define() | Decorators (@Entity, @Column) |
+| Easy for beginners  | Yes                    | Moderate                      |
+| Supports migrations | Yes                    | Yes                           |
+| NestJS support      | Medium                 | Excellent                     |
+| Learning curve      | Easy                   | Medium                        |
+| Query builder       | Medium                 | Strong                        |
